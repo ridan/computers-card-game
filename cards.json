@@ -1,0 +1,362 @@
+[
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 1,
+        "level": 1
+    },
+    {
+        "cycles": 3,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 2,
+        "reward_points": 0,
+        "reward_cost": 2,
+        "level": 1
+    },
+    {
+        "cycles": 4,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 1,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 3,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 4,
+        "reward_points": 1,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 3,
+        "reward_points": 1,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 4,
+        "reward_points": 1,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 4,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 3,
+        "reward_points": 1,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 4,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 1,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 1,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 2,
+        "reward_cost": 1,
+        "level": 2
+    },
+    {
+        "cycles": 3,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 4,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 1,
+        "reward_cost": 2,
+        "level": 2
+    },
+    {
+        "cycles": 5,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 9,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 3,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 7,
+        "reward_points": 3,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 4,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 8,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 7,
+        "reward_points": 4,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 8,
+        "reward_points": 2,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 9,
+        "reward_points": 4,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 2,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 9,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 3,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 8,
+        "reward_points": 2,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 6,
+        "reward_points": 4,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 8,
+        "reward_points": 3,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 9,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    },
+    {
+        "cycles": 5,
+        "reward_points": 3,
+        "reward_cost": 3,
+        "level": 3
+    },
+    {
+        "cycles": 5,
+        "reward_points": 4,
+        "reward_cost": 2,
+        "level": 3
+    }
+]
